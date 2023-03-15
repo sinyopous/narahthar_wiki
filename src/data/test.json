@@ -1,0 +1,10 @@
+{
+  "cities": {
+    "narathar": {
+      "population": 318,
+      "affiliation": "neutral",
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing, elit rhoncus lobortis cras viverra parturient gravida, lacinia congue interdum dictumst purus. Semper cubilia rhoncus bibendum posuere in ante netus varius, primis interdum faucibus eros condimentum dictum sem laoreet, senectus suscipit at risus feugiat iaculis natoque. Blandit non sociis pulvinar purus urna lacinia tellus ante et, per potenti iaculis ultrices laoreet vestibulum conubia. Urna iaculis vestibulum taciti gravida montes ultrices, aenean aliquet convallis elementum varius euismod diam, platea dignissim eros habitant purus. Fringilla consequat sodales pellentesque at leo egestas congue, a aliquet mus vitae ultricies cras porta, eros netus elementum aliquam ut sagittis. Lectus leo aliquet augue maecenas nascetur elementum consequat lacus, sed tristique morbi fermentum hac nec cras ac, nostra auctor faucibus tellus arcu nam ornare.",
+      "image": "https://cdnb.artstation.com/p/assets/images/images/007/653/355/large/rana-azeem-17662824-orig.jpg?1507634103"
+    }
+  }
+}

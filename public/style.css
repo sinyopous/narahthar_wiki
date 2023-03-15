@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Germania One";
+  src: url(../fonts/GermaniaOne-Regular.ttf);
+}
+
+* {
+  font-family: Germania One;
+}
