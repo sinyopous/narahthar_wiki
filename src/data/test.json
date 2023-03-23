@@ -4,7 +4,14 @@
       "name": "Narah'thar",
       "image": "./images/locations/narahThar.jpg",
       "text": "antiguo continente",
-      "lockedText": "this is only visible if the master wants"
+      "lockedText": "this is only visible if the master wants",
+      "details": {
+        "population": 234 ,
+        "mainLanguages": "comun",
+        "architecture": "clasic",
+        "government": "kingdom",
+        "king": "Manolo 3 dedos"
+      }
     },
     "martilloRocoso": {
       "name": "martillo rocoso",

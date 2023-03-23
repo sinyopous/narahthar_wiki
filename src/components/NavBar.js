@@ -1,6 +1,7 @@
 import React from "react";
 import "./NavBar.css";
 import {Login} from './Login'
+import {Logout} from './LogOut'
 
 export class NavBar extends React.Component {
   constructor(props) {
@@ -123,7 +124,8 @@ export class NavBar extends React.Component {
                 </a>
               </li>
               <li className="nav-item" id="loginButton">
-                <Login/>
+                { !this.props.state.gmUnlocked && <Login masterLogin={this.props.masterLogin} />}
+                { this.props.state.gmUnlocked && <Logout logOut={this.props.logOut}/>}
               </li>
             </ul>
           </div>
