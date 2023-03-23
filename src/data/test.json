@@ -1,28 +1,49 @@
 {
   "regions": {
-    "martilloRocoso":{
-      "name": "martillo rocoso",
-      "image": "https://cdnb.artstation.com/p/assets/images/images/007/653/355/large/rana-azeem-17662824-orig.jpg?1507634103",
-      "text" : "montañas con muchas rocas grandes, minas i muchos enanos"
+    "narahThar": {
+      "name": "Narah'thar",
+      "image": "./images/locations/narahThar.jpg",
+      "text": "antiguo continente",
+      "lockedText": "this is only visible if the master wants"
     },
-    "bosquesElficos":{
+    "martilloRocoso": {
+      "name": "martillo rocoso",
+      "image": "./images/locations/enanos.jpg",
+      "text": "montañas con muchas rocas grandes, minas i muchos enanos",
+      "lockedText": "this is only visible if the master wants"
+    },
+    "bosquesElficos": {
       "name": "bosques elficos",
       "image": "./images/locations/forestElves.jpg",
-      "text" : "los elfos de los bosque son los habitantes mas antiguos de narahthar, su simbiosis con la naturaleza es..."
+      "text": "los elfos de los bosque son los habitantes mas antiguos de narahthar, su simbiosis con la naturaleza es...",
+      "lockedText": "this is only visible if the master wants"
     },
-    "laHerida":{
+    "laHerida": {
       "name": "la herida",
       "image": "./images/locations/laHerida.webp",
-      "text" : "esta esta hecho una puta mierda"
+      "text": "esta esta hecho una puta mierda",
+      "lockedText": "this is only visible if the master wants"
     },
-    "reinoHumano":{},
-    "islasHombresBestia":{},
-    "farahstnar":{
+    "reinoHumano": {
+      "name": "reino humano",
+      "image": "./images/locations/humanos.jpg",
+      "text": "esta esta hecho una puta mierda",
+      "lockedText": "this is only visible if the master wants"
+    },
+    "islasHombresBestia": {
+      "name": "islas bestia",
+      "image": "./images/locations/hombresBestia.jpg",
+      "text": "esta esta hecho una puta mierda",
+      "lockedText": "this is only visible if the master wants"
+    },
+    "farahstnar": {
       "name": "farahstnar",
       "image": "./images/locations/snowElves.jpg",
-      "text" : "ke frio hace aki por el amor de dios"
+      "text": "ke frio hace aki por el amor de dios",
+      "lockedText": "this is only visible if the master wants"
     }
   },
+
   "cities": {
     "narahthar": {
       "population": 318,

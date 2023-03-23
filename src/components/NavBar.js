@@ -1,5 +1,6 @@
 import React from "react";
 import "./NavBar.css";
+import {Login} from './Login'
 
 export class NavBar extends React.Component {
   constructor(props) {
@@ -15,10 +16,15 @@ export class NavBar extends React.Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-lg sticky-top bg-light-subtle">
+      <nav className="navbar navbar-expand-lg sticky-top bg-dark">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#">
-            Narah´Thar
+          <a
+            onClick={this.articleHandler}
+            id={this.props.state.region.continente[1]}
+            className="navbar-brand colorText"
+            href="#"
+          >
+            {this.props.state.region.continente[0]}
           </a>
           <button
             className="navbar-toggler"
@@ -34,8 +40,8 @@ export class NavBar extends React.Component {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
-                  Home
+                <a className="nav-link colorText" aria-current="page" href="#">
+                  mapa
                 </a>
               </li>
               <li className="nav-item dropdown">
@@ -46,9 +52,9 @@ export class NavBar extends React.Component {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  {this.props.state.mapa}
+                  {this.props.state.zonas}
                 </a>
-                <ul className="dropdown-menu">
+                <ul className="dropdown-menu" data-bs-theme="dark">
                   <li>
                     <a
                       href="#"
@@ -74,19 +80,29 @@ export class NavBar extends React.Component {
                       href="#"
                       className="dropdown-item"
                       onClick={this.articleHandler}
+                      id={this.props.state.region.sur[1]}
+                    >
+                      {this.props.state.region.sur[0]}
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="#"
+                      className="dropdown-item"
+                      onClick={this.articleHandler}
+                      id={this.props.state.region.islasSur[1]}
+                    >
+                      {this.props.state.region.islasSur[0]}
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="#"
+                      className="dropdown-item"
+                      onClick={this.articleHandler}
                       id={this.props.state.region.este[1]}
                     >
                       {this.props.state.region.este[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      {this.props.state.region.sur}
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      {this.props.state.region.islasSur}
                     </a>
                   </li>
                   <li>
@@ -106,8 +122,8 @@ export class NavBar extends React.Component {
                   {this.props.state.hechizos}
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link disabled">Disabled</a>
+              <li className="nav-item" id="loginButton">
+                <Login/>
               </li>
             </ul>
           </div>

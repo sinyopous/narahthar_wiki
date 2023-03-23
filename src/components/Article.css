@@ -1,0 +1,19 @@
+#landscapeImage {
+  max-height: 400px;
+  overflow: hidden;
+  align-content: center;
+  border: solid rgb(0, 0, 0) 3px;
+}
+
+p {
+  color: rgb(158, 158, 158);
+}
+
+h2 {
+  color: rgb(194, 194, 194);
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
