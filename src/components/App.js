@@ -72,7 +72,7 @@ class App extends React.Component {
         />
         <div className="App container text-light bg-dark">
           <div className="row">
-            <SideMenu/>
+            {/* <SideMenu /> */}
             <div className="col-sm-10">
               <Article
                 unlocked={this.state.gmUnlocked}

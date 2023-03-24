@@ -1,9 +1,9 @@
 {
   "regions": {
     "narahThar": {
-      "name": "Narah'thar",
+      "name": "Narah'Thar",
       "image": "./images/locations/narahThar.jpg",
-      "text": "antiguo continente",
+      "text": "Antiguo continente",
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 47000 ,
@@ -14,9 +14,9 @@
       }
     },
     "martilloRocoso": {
-      "name": "martillo rocoso",
+      "name": "Martillo rocoso",
       "image": "./images/locations/enanos.jpg",
-      "text": "montañas con muchas rocas grandes, minas i muchos enanos",
+      "text": "Montañas con muchas rocas grandes, minas i muchos enanos",
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657 ,
@@ -34,7 +34,7 @@
     },
     "laHerida": {
       "name": "la herida",
-      "image": "./images/locations/laHerida.webp",
+      "image": "./images/locations/laHerida.jpg",
       "text": "esta esta hecho una puta mierda",
       "lockedText": "this is only visible if the master wants"
     },
@@ -51,7 +51,7 @@
       "lockedText": "this is only visible if the master wants"
     },
     "farahstnar": {
-      "name": "farahstnar",
+      "name": "Farahstnar",
       "image": "./images/locations/snowElves.jpg",
       "text": "ke frio hace aki por el amor de dios",
       "lockedText": "this is only visible if the master wants"
