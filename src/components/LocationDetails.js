@@ -1,4 +1,5 @@
 import React from "react";
+import "./LocationDetails.css"
 
 export class LocationDetails extends React.Component{
     constructor(props){
@@ -9,7 +10,7 @@ export class LocationDetails extends React.Component{
         const details = this.props.details
         const detailsArray = []
         for (let detail in details) {
-            detailsArray.push( (<li><p> {details[detail]} </p></li>) ) 
+            detailsArray.push( (<li><p> <span>{detail}</span>: {details[detail]} </p></li>) ) 
         }
         console.dir(detailsArray)
         return detailsArray
@@ -19,11 +20,8 @@ export class LocationDetails extends React.Component{
         const locationDetails = this.objectList()
         
         return (
-        <div>
+        <div className="col" id="detailsCard">
             <ul>
-                <li>
-            <p onClick={this.objectList}>hola</p>
-                </li>
                 { locationDetails }
             </ul>
         </div>)

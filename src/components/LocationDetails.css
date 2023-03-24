@@ -1,0 +1,9 @@
+span{
+    color: rgb(199, 199, 199);
+}
+
+#detailsCard{
+    border: solid black 3px;
+    padding: 10px 2px 0 2px;
+    margin: 10px 0 0 0 ;
+}

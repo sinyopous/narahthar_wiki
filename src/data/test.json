@@ -6,18 +6,25 @@
       "text": "antiguo continente",
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "population": 234 ,
-        "mainLanguages": "comun",
-        "architecture": "clasic",
-        "government": "kingdom",
-        "king": "Manolo 3 dedos"
+        "poblacion": 47000 ,
+        "idioma oficial": "comun",
+        "arquitectura": "clasic",
+        "govierno": "kingdom",
+        "governador": "Manolo 3 dedos"
       }
     },
     "martilloRocoso": {
       "name": "martillo rocoso",
       "image": "./images/locations/enanos.jpg",
       "text": "montañas con muchas rocas grandes, minas i muchos enanos",
-      "lockedText": "this is only visible if the master wants"
+      "lockedText": "this is only visible if the master wants",
+      "details": {
+        "poblacion": 657 ,
+        "idioma oficial": "enano",
+        "arquitectura": "brutalismo",
+        "govierno": "3 kingdoms",
+        "governador": "gimli"
+      }
     },
     "bosquesElficos": {
       "name": "bosques elficos",

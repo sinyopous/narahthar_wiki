@@ -1,8 +1,13 @@
 #landscapeImage {
-  max-height: 400px;
+  /* max-height: 400px; */
   overflow: hidden;
   align-content: center;
   border: solid rgb(0, 0, 0) 3px;
+}
+
+#infoBox{
+  border: solid black 3px;
+  margin: 10px 0 0 12px ;
 }
 
 p {
