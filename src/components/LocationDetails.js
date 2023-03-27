@@ -10,9 +10,8 @@ export class LocationDetails extends React.Component{
         const details = this.props.details
         const detailsArray = []
         for (let detail in details) {
-            detailsArray.push( (<li><p> <span>{detail}</span>: {details[detail]} </p></li>) ) 
+            detailsArray.push( (<li key={details[detail]}><p> <span>{detail}</span>: {details[detail]} </p></li>) ) 
         }
-        console.dir(detailsArray)
         return detailsArray
     }
     

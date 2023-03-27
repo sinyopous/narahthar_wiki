@@ -1,12 +1,14 @@
 import React from "react";
 import "./NavBar.css";
-import {Login} from './Login'
-import {Logout} from './LogOut'
+import { Login } from "./Login";
+import { Logout } from "./LogOut";
+import data from "../data/test.json";
 
 export class NavBar extends React.Component {
   constructor(props) {
     super(props);
     this.articleHandler = this.articleHandler.bind(this);
+    this.zoneLinks = this.zoneLinks.bind(this);
   }
   articleHandler(event) {
     console.log(event);
@@ -15,7 +17,31 @@ export class NavBar extends React.Component {
     this.props.dataFetch(searchKey);
   }
 
+  zoneLinks() {
+    const zones = data.regions;
+    const zonesArray = [];
+    for (let zone in zones) {
+      console.log(zone, zones[zone].name);
+      zonesArray.push(
+        <li key={zone}>
+          <a
+            href="#"
+            className="dropdown-item"
+            onClick={this.articleHandler}
+            id={zone}
+          >
+            {zones[zone].name}
+          </a>
+        </li>
+      );
+    }
+    console.dir(zonesArray[1]);
+    return zonesArray;
+  }
+
   render() {
+    const zones = this.zoneLinks();
+
     return (
       <nav className="navbar navbar-expand-lg sticky-top bg-dark">
         <div className="container-fluid">
@@ -56,66 +82,7 @@ export class NavBar extends React.Component {
                   {this.props.state.zonas}
                 </a>
                 <ul className="dropdown-menu" data-bs-theme="dark">
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.norte[1]}
-                    >
-                      {this.props.state.region.norte[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.oeste[1]}
-                    >
-                      {this.props.state.region.oeste[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.sur[1]}
-                    >
-                      {this.props.state.region.sur[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.islasSur[1]}
-                    >
-                      {this.props.state.region.islasSur[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.este[1]}
-                    >
-                      {this.props.state.region.este[0]}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="dropdown-item"
-                      onClick={this.articleHandler}
-                      id={this.props.state.region.continenteNorte[1]}
-                    >
-                      {this.props.state.region.continenteNorte[0]}
-                    </a>
-                  </li>
+                  {zones}
                 </ul>
               </li>
               <li className="nav-item">
@@ -124,8 +91,12 @@ export class NavBar extends React.Component {
                 </a>
               </li>
               <li className="nav-item" id="loginButton">
-                { !this.props.state.gmUnlocked && <Login masterLogin={this.props.masterLogin} />}
-                { this.props.state.gmUnlocked && <Logout logOut={this.props.logOut}/>}
+                {!this.props.state.gmUnlocked && (
+                  <Login masterLogin={this.props.masterLogin} />
+                )}
+                {this.props.state.gmUnlocked && (
+                  <Logout logOut={this.props.logOut} />
+                )}
               </li>
             </ul>
           </div>
