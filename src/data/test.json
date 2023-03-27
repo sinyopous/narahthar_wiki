@@ -3,7 +3,17 @@
     "narahThar": {
       "name": "Narah'Thar",
       "image": "./images/locations/narahThar.jpg",
-      "text": ["‘Narah’Thar’ es un continente donde conviven diferentes razas en paz, eso sí,  sin mezclarse demasiado.","En él residen elfos, enanos, humanos y gente bestia, que si bien no es que tengan una gran amistad entre ellos al menos se soportan unos a otros, hasta hacen algunos tratos comerciales.","Al norte tenemos a los enanos, refugiados en su fortaleza de montañas, territorio apodado con el nombre de ‘Martillo rocoso’. Estos son gente un poco cerrada, por decirlo de alguna manera, ¿será porque salen poco de sus cuevas? Si viajas allí que sea porque les vas a proponer algún tratado comercial que les sea interesante, sino descubrirás porque no son famosos por su hospitalidad.","Más al norte aún, se sitúa ‘Farahstnar’, unas tierras gélidas inexploradas, donde nadie que haya ido allí a vuelto jamás, normal, si ya es complicado llegar hasta el territorio enano, imaginate tener que cruzar por un mar gélido y peligroso para toparse con un desierto de hielo y luego tener que volver por el mismo mar, para ser recibido por unos enanos gruñones, pues la verdad es que no apetece mucho.","Al este se encuentra la nada, el llamado desierto de ‘la Herida’, digo nada porque allí no hay nada interesante, al menos nada bueno. Es un desierto infestado de magia y muerte en el que nadie quiere meterse, para que si lo más seguro es que no vuelvas. Por suerte el río sagrado limita su extensión hacia los bosques, este baja cargado de magia fey que llena de vida todo lo que toca y al parecer vida y muerte se anulan y pues equilibran el asunto.","El río sagrado tiene su origen en ‘la Gran montaña fey’, un lugar lleno de misterio. Desde la lejanía se pueden ver sus inmensos árboles, de miles de pies de alto, exuberantes dan cobijo a una fauna de lo más diversa única de esos bosques.","Al oeste, haciendo frontera con ‘la Herida’, con el río sagrado de frontera, tenemos ‘los Bosques elficos’. Estos cubren una buena extensión de ’Narah’Thar’, llegando hasta la costa oeste. En ellos residen todo tipo de bestias, además de nuestros amigos los elfos, o ‘no amigos’ debería decir, la verdad es que no entiendo muy bien cuales son sus políticas de exterior. Sinceramente, creo que son un poco tímidos así en general y les gusta ir a su rollo, dando saltitos por los árboles. No son hostiles a los extranjeros, pero no les gusta que les vean, eso si, respeta el bosque porque sino se enfadan bastante.","En la esquina sur de ‘Narah’Thar’, con una riqueza y poderío envidiables, tenemos ‘el Reino humano’. Un lugar donde podras realizarte como persona, ver como tus sueños se hacen realidad, bueno, eso si tuviste la suerte de nacer en una familia adinerada, sino pues buscate la vida, es lo que hay.Su capital es una gran ciudad cosmopolita, donde encontrarás de todo, allí se comercia con todas las partes del mundo, si buscas algo seguramente allí lo encuentres.A parte de la capital, sus tierras están llenas de pequeños pueblos y aldeas donde podrás dedicarte a labrar la tierra, una labor poco glamurosa pero más tranquila que andar trapicheando por la ciudad.","Y para terminar nuestro tour por ‘Narah’Thar’ tenemos, al sureste de la península, un grupo de insulas bastante curiosas. Las llamadas ‘islas Bestia’, en ellas residen todo tipo de razas y etnias provenientes de todos los lados del mundo. Estas son un refugio donde acude gente huyendo de guerras, de la pobreza o de la justicia también. Un lugar lleno de variedad y donde todos son bienvenidos."],
+      "text": [
+        "‘Narah’Thar’ es un continente donde conviven diferentes razas en paz, eso sí,  sin mezclarse demasiado.",
+        "En él residen elfos, enanos, humanos y gente bestia, que si bien no es que tengan una gran amistad entre ellos al menos se soportan unos a otros, hasta hacen algunos tratos comerciales.",
+        "Al norte tenemos a los enanos, refugiados en su fortaleza de montañas, territorio apodado con el nombre de ‘Martillo rocoso’. Estos son gente un poco cerrada, por decirlo de alguna manera, ¿será porque salen poco de sus cuevas? Si viajas allí que sea porque les vas a proponer algún tratado comercial que les sea interesante, sino descubrirás porque no son famosos por su hospitalidad.",
+        "Más al norte aún, se sitúa ‘Farahstnar’, unas tierras gélidas inexploradas, donde nadie que haya ido allí a vuelto jamás, normal, si ya es complicado llegar hasta el territorio enano, imaginate tener que cruzar por un mar gélido y peligroso para toparse con un desierto de hielo y luego tener que volver por el mismo mar, para ser recibido por unos enanos gruñones, pues la verdad es que no apetece mucho.",
+        "Al este se encuentra la nada, el llamado desierto de ‘la Herida’, digo nada porque allí no hay nada interesante, al menos nada bueno. Es un desierto infestado de magia y muerte en el que nadie quiere meterse, para que si lo más seguro es que no vuelvas. Por suerte el río sagrado limita su extensión hacia los bosques, este baja cargado de magia fey que llena de vida todo lo que toca y al parecer vida y muerte se anulan y pues equilibran el asunto.",
+        "El río sagrado tiene su origen en ‘la Gran montaña fey’, un lugar lleno de misterio. Desde la lejanía se pueden ver sus inmensos árboles, de miles de pies de alto, exuberantes dan cobijo a una fauna de lo más diversa única de esos bosques.",
+        "Al oeste, haciendo frontera con ‘la Herida’, con el río sagrado de frontera, tenemos ‘los Bosques elficos’. Estos cubren una buena extensión de ’Narah’Thar’, llegando hasta la costa oeste. En ellos residen todo tipo de bestias, además de nuestros amigos los elfos, o ‘no amigos’ debería decir, la verdad es que no entiendo muy bien cuales son sus políticas de exterior. Sinceramente, creo que son un poco tímidos así en general y les gusta ir a su rollo, dando saltitos por los árboles. No son hostiles a los extranjeros, pero no les gusta que les vean, eso si, respeta el bosque porque sino se enfadan bastante.",
+        "En la esquina sur de ‘Narah’Thar’, con una riqueza y poderío envidiables, tenemos ‘el Reino humano’. Un lugar donde podras realizarte como persona, ver como tus sueños se hacen realidad, bueno, eso si tuviste la suerte de nacer en una familia adinerada, sino pues buscate la vida, es lo que hay.Su capital es una gran ciudad cosmopolita, donde encontrarás de todo, allí se comercia con todas las partes del mundo, si buscas algo seguramente allí lo encuentres.A parte de la capital, sus tierras están llenas de pequeños pueblos y aldeas donde podrás dedicarte a labrar la tierra, una labor poco glamurosa pero más tranquila que andar trapicheando por la ciudad.",
+        "Y para terminar nuestro tour por ‘Narah’Thar’ tenemos, al sureste de la península, un grupo de insulas bastante curiosas. Las llamadas ‘islas Bestia’, en ellas residen todo tipo de razas y etnias provenientes de todos los lados del mundo. Estas son un refugio donde acude gente huyendo de guerras, de la pobreza o de la justicia también. Un lugar lleno de variedad y donde todos son bienvenidos."
+      ],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 47000,
@@ -16,20 +26,28 @@
     "martilloRocoso": {
       "name": "Martillo rocoso",
       "image": "./images/locations/enanos.jpg",
-      "text": "Montañas con muchas rocas grandes, minas i muchos enanos",
+      "text": [
+        "El martillo rocoso se divide en tres zonas, cada una gobernada por un clan enano. Este territorio no ofrece un hábitat muy agradable a sus residentes, así que la mayoría de enanos viven en cuevas excavadas en las montañas, solo algunos pocos residen en los valles y estos lo hacen fuera de la temporada de invierno.",
+        "El clima es bastante frío y no hay mucha fauna ni flora en el territorio, por el contrario sus montañas son ricas en minerales. Los enanos se dedican principalmente a la minería y consiguen los recursos que no les dan sus tierras comerciando, principalmente con los humanos.",
+        "Los enanos son bastante cerrados, no les gusta salir de sus montañas y raramente los verás lejos de su hogar."
+      ],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
         "idioma oficial": "enano",
         "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
+        "govierno": "3 clanes enanos se reparten las montañas",
         "governador": "gimli"
       }
     },
     "bosquesElficos": {
       "name": "Bosques elficos",
       "image": "./images/locations/forestElves.jpg",
-      "text": "los elfos de los bosque son los habitantes mas antiguos de narahthar, su simbiosis con la naturaleza es...",
+      "text": [
+        "Estas tierras son fértiles y están llenas de vida, condición que mantienen gracias a los elfos, que actúan como guardianes protectores del bosque. Si no fuera por estos, seguramente los humanos ya habrian desforestado el bosque para expandir sus tierras de cultivo.",
+        "Los elfos de los bosques son los habitantes más antiguos de ‘Narah’Thar’, su simbiosis con la naturaleza es su rasgo más característico. Estos viven escondidos entre los árboles y dominan las artes de la ocultación, así que no es nada fácil encontrarlos.",
+        "Tienen un consejo de sabios que rige su sociedad, pero en general nadie sabe muy bien como se organizan ni como viven, son un misterio para los extranjeros."
+      ],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
@@ -42,7 +60,11 @@
     "laHerida": {
       "name": "La herida",
       "image": "./images/locations/laHerida.jpg",
-      "text": "Este lugar esta hecho una puta mierda, una zona plagada de trampas y magia oscura, donde ningun ser puede sobrevivir. Restos de una antigua guerra entre fuerzas primigenias. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis vitae et leo duis ut diam quam nulla porttitor. Nunc mattis enim ut tellus elementum sagittis vitae et. Mattis enim ut tellus elementum sagittis. Et tortor at risus viverra adipiscing. Et tortor at risus viverra adipiscing at in tellus integer. Diam ut venenatis tellus in metus. Ac turpis egestas integer eget. Massa id neque aliquam vestibulum morbi blandit cursus risus. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. Viverra adipiscing at in tellus integer feugiat scelerisque. Nisl nisi scelerisque eu ultrices vitae auctor eu. Risus pretium quam vulputate dignissim suspendisse in. Nullam vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Quisque id diam vel quam elementum pulvinar. Aliquet enim tortor at auctor urna nunc id cursus. In nulla posuere sollicitudin aliquam. Risus feugiat in ante metus dictum. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Sed ullamcorper morbi tincidunt ornare massa eget egestas. Id volutpat lacus laoreet non curabitur. Iaculis eu non diam phasellus vestibulum lorem. Nullam vehicula ipsum a arcu cursus vitae congue. Nibh tellus molestie nunc non blandit massa. Lobortis feugiat vivamus at augue.",
+      "text": [
+        "La herida es territorio de la muerte, mejor no te acerques.",
+        "Este lugar está devastado y devora todo aquello que entra en él, es una maldición que se extiende a lo largo de muchas millas.",
+        "Lo único que se sabe es que su aire rojizo enferma a todo aquel que se acerca y lo  respira, más adentro quien sabe qué males acechan."
+      ],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
@@ -55,7 +77,7 @@
     "reinoHumano": {
       "name": "Reino humano",
       "image": "./images/locations/humanos.jpg",
-      "text": "esta esta hecho una puta mierda",
+      "text": ["esta esta hecho una puta mierda"],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
@@ -68,7 +90,7 @@
     "islasHombresBestia": {
       "name": "Islas bestia",
       "image": "./images/locations/hombresBestia.jpg",
-      "text": "hogar de sangriento, el legendario ninja",
+      "text": ["hogar de sangriento, el legendario ninja"],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
@@ -81,7 +103,20 @@
     "farahstnar": {
       "name": "Farahstnar",
       "image": "./images/locations/snowElves.jpg",
-      "text": "ke frio hace aki por el amor de dios",
+      "text": ["ke frio hace aki por el amor de dios"],
+      "lockedText": "this is only visible if the master wants",
+      "details": {
+        "poblacion": 657,
+        "idioma oficial": "enano",
+        "arquitectura": "brutalismo",
+        "govierno": "3 kingdoms",
+        "governador": "gimli"
+      }
+    },
+    "monteFey": {
+      "name": "Monte fey",
+      "image": "./images/locations/monteFey04.jpg",
+      "text": ["donde la magia existe"],
       "lockedText": "this is only visible if the master wants",
       "details": {
         "poblacion": 657,
