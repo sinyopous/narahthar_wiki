@@ -10,17 +10,17 @@
         "Más al norte aún, se sitúa ‘Farahstnar’, unas tierras gélidas inexploradas, donde nadie que haya ido allí a vuelto jamás, normal, si ya es complicado llegar hasta el territorio enano, imaginate tener que cruzar por un mar gélido y peligroso para toparse con un desierto de hielo y luego tener que volver por el mismo mar, para ser recibido por unos enanos gruñones, pues la verdad es que no apetece mucho.",
         "Al este se encuentra la nada, el llamado desierto de ‘la Herida’, digo nada porque allí no hay nada interesante, al menos nada bueno. Es un desierto infestado de magia y muerte en el que nadie quiere meterse, para que si lo más seguro es que no vuelvas. Por suerte el río sagrado limita su extensión hacia los bosques, este baja cargado de magia fey que llena de vida todo lo que toca y al parecer vida y muerte se anulan y pues equilibran el asunto.",
         "El río sagrado tiene su origen en ‘la Gran montaña fey’, un lugar lleno de misterio. Desde la lejanía se pueden ver sus inmensos árboles, de miles de pies de alto, exuberantes dan cobijo a una fauna de lo más diversa única de esos bosques.",
-        "Al oeste, haciendo frontera con ‘la Herida’, con el río sagrado de frontera, tenemos ‘los Bosques elficos’. Estos cubren una buena extensión de ’Narah’Thar’, llegando hasta la costa oeste. En ellos residen todo tipo de bestias, además de nuestros amigos los elfos, o ‘no amigos’ debería decir, la verdad es que no entiendo muy bien cuales son sus políticas de exterior. Sinceramente, creo que son un poco tímidos así en general y les gusta ir a su rollo, dando saltitos por los árboles. No son hostiles a los extranjeros, pero no les gusta que les vean, eso si, respeta el bosque porque sino se enfadan bastante.",
-        "En la esquina sur de ‘Narah’Thar’, con una riqueza y poderío envidiables, tenemos ‘el Reino humano’. Un lugar donde podras realizarte como persona, ver como tus sueños se hacen realidad, bueno, eso si tuviste la suerte de nacer en una familia adinerada, sino pues buscate la vida, es lo que hay.Su capital es una gran ciudad cosmopolita, donde encontrarás de todo, allí se comercia con todas las partes del mundo, si buscas algo seguramente allí lo encuentres.A parte de la capital, sus tierras están llenas de pequeños pueblos y aldeas donde podrás dedicarte a labrar la tierra, una labor poco glamurosa pero más tranquila que andar trapicheando por la ciudad.",
+        "Al oeste, haciendo frontera con ‘la Herida’, con el río sagrado de frontera, tenemos los bosques llamados ‘Laurus nobilis’. Estos cubren una buena extensión de ’Narah’Thar’, llegando hasta la costa oeste. En ellos residen todo tipo de bestias, además de nuestros amigos los elfos, o ‘no amigos’ debería decir, la verdad es que no entiendo muy bien cuales son sus políticas de exterior. Sinceramente, creo que son un poco tímidos así en general y les gusta ir a su rollo, dando saltitos por los árboles. No son hostiles a los extranjeros, pero no les gusta que les vean, eso si, respeta el bosque porque sino se enfadan bastante.",
+        "En la esquina sur de ‘Narah’Thar’, con una riqueza y poderío envidiables, tenemos ‘el Reino de Cabalat’. Un lugar donde podras realizarte como persona, ver como tus sueños se hacen realidad, bueno, eso si tuviste la suerte de nacer en una familia adinerada, sino pues buscate la vida, es lo que hay. Su capital es una gran ciudad cosmopolita, donde encontrarás de todo, allí se comercia con todas las partes del mundo, si buscas algo seguramente allí lo encuentres.A parte de la capital, sus tierras están llenas de pequeños pueblos y aldeas donde podrás dedicarte a labrar la tierra, una labor poco glamurosa pero más tranquila que andar trapicheando por la ciudad.",
         "Y para terminar nuestro tour por ‘Narah’Thar’ tenemos, al sureste de la península, un grupo de insulas bastante curiosas. Las llamadas ‘islas Bestia’, en ellas residen todo tipo de razas y etnias provenientes de todos los lados del mundo. Estas son un refugio donde acude gente huyendo de guerras, de la pobreza o de la justicia también. Un lugar lleno de variedad y donde todos son bienvenidos."
       ],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 47000,
-        "idioma oficial": "comun",
-        "arquitectura": "clasic",
-        "govierno": "kingdom",
-        "governador": "Manolo 3 dedos"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
     "martilloRocoso": {
@@ -33,15 +33,15 @@
       ],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 clanes enanos se reparten las montañas",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
-    "bosquesElficos": {
-      "name": "Bosques elficos",
+    "laurusNobilis": {
+      "name": "Laurus nobilis",
       "image": "./images/locations/forestElves.jpg",
       "text": [
         "Estas tierras son fértiles y están llenas de vida, condición que mantienen gracias a los elfos, que actúan como guardianes protectores del bosque. Si no fuera por estos, seguramente los humanos ya habrian desforestado el bosque para expandir sus tierras de cultivo.",
@@ -50,11 +50,11 @@
       ],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
     "laHerida": {
@@ -67,63 +67,63 @@
       ],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
     "reinoHumano": {
-      "name": "Reino humano",
+      "name": "Reino de Cabalat",
       "image": "./images/locations/humanos.jpg",
-      "text": ["esta esta hecho una puta mierda"],
+      "text": ["El reino se asienta siguiendo el curso del río sagrado hasta su desembocadura, donde se ubica la gran ciudad de ´Al'cabat´.  Aprovechando la magia que el río arrastra desde el gran Monte Monunsui, los humanos obtienen unas cosechas excepcionales, todos los frutos y semillas que se cultivan en sus tierras son de una calidad altísima, además de estar imbuidos con pequeñas dosis de magia regenerativa. Magia que concibe a quien consume asiduamente estos frutos salud y longevidad. No es de extrañar que sus frutos sean algo muy codiciado más allá de sus fronteras y de esto derive una actividad comercial que otorga gran riqueza al reino de Cabalat.","´Al'cabat´ es una gran ciudad, llena de torres y palacios del más fino mármol, de un blanco que deslumbra al mediodía, con detalles forjados en oro, todo un espectáculo para el visitante. En ella se halla también un puerto comercial enorme, donde buques de todas las nacionalidades entran y salen a diario. A este le sigue un mercado donde te puedes pasar todo el día y no terminarias de visitar todas sus paradas, el más extenso y variado del mundo conocido, en el gente de todo el mundo vende y compra las cosas más exóticas que jamás verás. A parte del comercio, ´Al'cabat´ es sede de prestigiosas escuelas de ciencia y tecnologia.","Más allá de la ciudad tenemos una red de pueblos y aldeas donde se produce el origen de la riqueza de este reino, en ella los campesinos labran las tierras de los nobles a cambio de una vida modesta y tranquila."],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
     "islasHombresBestia": {
       "name": "Islas bestia",
       "image": "./images/locations/hombresBestia.jpg",
-      "text": ["hogar de sangriento, el legendario ninja"],
+      "text": ["Islas de clima paradisíaco y espectaculares paisajes naturales, donde se refugian miles de humanoides de distintas procedencias.","Con el auge del comercio del reino de Cabalat, muchos extranjeros vieron en las islas cercanas un lugar donde empezar una nueva vida.","En ellas conviven seres de todo el mundo, sus habitantes son muy abiertos y se respira un ambiente de paz y buen rollo. En las calles de su ciudad y asentamientos experimentarás el caos, pero de una forma positiva. Sus calles trazadas sin ninguna planificación harán que te pierdas entre una arquitectura que no para de cambiar, ofreciendo a tus sentidos una sobredosis de estímulos.","Además podrás observar como la naturaleza juega un papel muy importante para sus habitantes, allá donde vayas verás como esta es fundamental en la vida de los isleños."],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
     "farahstnar": {
       "name": "Farahstnar",
       "image": "./images/locations/snowElves.jpg",
-      "text": ["ke frio hace aki por el amor de dios"],
+      "text": ["Poco se sabe de estas gélidas tierras, los valientes que han decidido explorar este territorio no han vuelto nunca, así que solo se me ocurren dos opciones, o se está muy a gusto o murieron congelados."],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     },
-    "monteFey": {
-      "name": "Monte fey",
+    "monteMonunsui": {
+      "name": "Monte Monunsui",
       "image": "./images/locations/monteFey04.jpg",
-      "text": ["donde la magia existe"],
+      "text": ["El monte Monunsui es una montaña enorme, de una altura considerable, pero nada escarpada, su pendiente es suave en todas la caras, haciéndola increíblemente ancha. Hace de barrera natural entre el martillo rocoso y la demás parte de la península, una barrera prácticamente insorteable. ","En él habita un bosque donde todo ha adquirido un tamaño gigante, sus árboles se elevan miles de pies hacia el cielo y puedes encontrar criaturas con proporciones descomunales. Esto se debe a una fuerte conexión con el plano fey, no se sabe porque pero de alguna manera la montaña está conectada a esta dimensión, influyendo todo que hay en ese lugar.","Aunque parezca un lugar de fantasía hay que andarse con mucho cuidado, si no tienes una fuerte conexión con la magia que inunda el lugar este se percatara de tu presencia y no serás bienvenido. Así que nadie se atreve a meterse allí, por lo tanto sigue siendo un bosque lleno de misterios."],
       "lockedText": "this is only visible if the master wants",
       "details": {
-        "poblacion": 657,
-        "idioma oficial": "enano",
-        "arquitectura": "brutalismo",
-        "govierno": "3 kingdoms",
-        "governador": "gimli"
+        "poblacion": "...",
+        "idioma oficial": "...",
+        "arquitectura": "...",
+        "govierno": "...",
+        "governador": "..."
       }
     }
   },

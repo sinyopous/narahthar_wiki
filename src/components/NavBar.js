@@ -35,7 +35,6 @@ export class NavBar extends React.Component {
         </li>
       );
     }
-    console.dir(zonesArray[1]);
     return zonesArray;
   }
 
@@ -67,7 +66,7 @@ export class NavBar extends React.Component {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link colorText" aria-current="page" href="#">
+                <a className="nav-link colorText" aria-current="page" href="./images/maps/tierrasDeNarahthar.jpg">
                   mapa
                 </a>
               </li>
