@@ -1,0 +1,18 @@
+/* @font-face {
+  font-family: "Germania One";
+  src: url(../fonts/GermaniaOne-Regular.ttf);
+} */
+
+@font-face {
+  font-family: celtic;
+  src: url(./fonts/CelticGaramond.TTF);
+}
+* {
+  font-family: celtic;
+  letter-spacing: 1.5px;
+}
+
+/* p{
+  font-family:  Germania One;
+  letter-spacing: normal;
+} */

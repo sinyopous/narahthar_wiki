@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/narahthar_wiki/static/css/main.a0dda202.css",
+    "main.js": "/narahthar_wiki/static/js/main.68b1f540.js",
+    "static/js/787.7ebca758.chunk.js": "/narahthar_wiki/static/js/787.7ebca758.chunk.js",
+    "index.html": "/narahthar_wiki/index.html",
+    "main.a0dda202.css.map": "/narahthar_wiki/static/css/main.a0dda202.css.map",
+    "main.68b1f540.js.map": "/narahthar_wiki/static/js/main.68b1f540.js.map",
+    "787.7ebca758.chunk.js.map": "/narahthar_wiki/static/js/787.7ebca758.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0dda202.css",
+    "static/js/main.68b1f540.js"
+  ]
+}
